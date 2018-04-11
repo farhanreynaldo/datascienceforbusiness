@@ -1,2 +1,3 @@
-# datascienceforbusiness
-Data Science for Business Case Study
+# Data Science For Business Case Study
+
+This project aimed to predict `loan status` feature.
